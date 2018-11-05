@@ -9,4 +9,4 @@ le commit de la branche2
 =======
 mon deuxiemes commit
 git commit  -m " commit rebase 1" 
->>>>>>> commit rebase 1
+git commit  -m " commit rebase 2" 
