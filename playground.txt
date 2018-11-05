@@ -1,7 +1,12 @@
 Formation git 
 La modification
 Le commit sans passer par le stage
+<<<<<<< HEAD
 git checkout master "je me place sur la branche Master"
 mon deuxiemes commit
 le commit de la branche1
 le commit de la branche2
+=======
+mon deuxiemes commit
+git commit  -m " commit rebase 1" 
+>>>>>>> commit rebase 1
