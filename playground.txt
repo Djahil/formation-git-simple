@@ -1,2 +1,3 @@
-formation git 
-la modification
+Formation git 
+La modification
+Le commit sans passer par le stage
