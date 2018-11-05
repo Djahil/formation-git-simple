@@ -2,5 +2,5 @@ Formation git
 La modification
 Le commit sans passer par le stage
 git checkout master "je me place sur la branche Master"
-
-mon deuxiemes commit 
+mon deuxiemes commit
+le commit de la branche1 
