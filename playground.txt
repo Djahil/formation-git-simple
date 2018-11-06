@@ -1,3 +1,4 @@
 Formation git 
 La modification
 Le commit sans passer par le stage
+le commit de 1st-pr
